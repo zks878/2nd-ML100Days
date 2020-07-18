@@ -25,7 +25,7 @@
 
 ##操作說明
 ###簡易流程圖
-![簡易流程圖](https://drive.google.com/file/d/1ERPb8zu3yuZMCNlR_E1tZCq78jxuMDk_/view?usp=sharing)
+![簡易流程圖](https://drive.google.com/drive/u/0/my-drive)
 
 1. (中期開發)**承租人(以下稱乙方)** 在網站上註冊，提供基本資料
 2. **乙方**在網站上瀏覽其中意的場地

@@ -8,7 +8,7 @@
 - 使用html/css/javascript/python編譯。
 - 開發環境為spyder/atom/visual studio code。
 - 執行環境為windows10。
-- 部分場地資料是藉由爬蟲抓取 https://www.pickoneplace.com/ 生成的。
+- 場地資料是藉由爬蟲抓取網路資料生成的。
 
 ##主要功能
 1. 提供**出租者**與**承租人**之間媒合的平台，增加交易的機會。
